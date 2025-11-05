@@ -34,7 +34,6 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), Ten
 #### CODE SEGMENTS:
 ### FRONTEND - INDEX.HTML
 ```
-```
 <!doctype html>
 <html>
 <head>
